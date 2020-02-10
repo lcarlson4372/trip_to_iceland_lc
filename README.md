@@ -1,6 +1,6 @@
 # trip_to_iceland_lc
 
-notes on upcoming trip to iceland
+notes on upcoming trip 
 
 this contains
   -to do list
