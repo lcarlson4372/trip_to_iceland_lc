@@ -1,3 +1,3 @@
 pack list for camping
-rain jacket
-hiking stick
+  rain jacket
+  hiking stick
